@@ -7,7 +7,7 @@ export function Project() {
       <h2>My Projects</h2>
       <div className="projects">
         <ScrollAnimation animateIn="flipInX" className="form-control">
-          <div className="project" style={{width: '370px'}}>
+          <div className="project" style={{width: '100%'}}>
             <header>
               <svg
                 width="50"
@@ -53,7 +53,7 @@ export function Project() {
         </ScrollAnimation>
 
         <ScrollAnimation animateIn="flipInX" className="form-control">
-          <div className="project" style={{width: '370px'}}>
+          <div className="project" style={{width: '100%'}}>
             <header>
               <svg
                 width="50"
@@ -97,7 +97,7 @@ export function Project() {
         </ScrollAnimation>
 
         <ScrollAnimation animateIn="flipInX" className="form-control">
-          <div className="project" style={{width: '370px'}}>
+          <div className="project" style={{width: '100%'}}>
             <header>
               <svg
                 width="50"
@@ -145,7 +145,7 @@ export function Project() {
         </ScrollAnimation>
 
         <ScrollAnimation animateIn="flipInX" className="form-control">
-          <div className="project" style={{width: '370px'}}>
+          <div className="project" style={{width: '100%'}}>
             <header>
               <svg
                 width="50"

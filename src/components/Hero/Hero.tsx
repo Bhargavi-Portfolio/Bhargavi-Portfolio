@@ -20,8 +20,6 @@ export function Hero() {
         <ScrollAnimation animateIn="fadeInUp">
           <p className="small-resume">3.6+ Years of Experience</p>
         </ScrollAnimation>
-
-
         <ScrollAnimation animateIn="fadeInUp">
           <BrowserRouter>
             <a href="https://www.linkedin.com/in/bhargavi-bollina-3183a8260/" className="button">Contact</a>
@@ -44,8 +42,6 @@ export function Hero() {
           <img src={Illustration} alt="Ilustração" />
         </ScrollAnimation>
       </div>
-     
     </Container>
-
   )
 }
